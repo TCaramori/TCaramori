@@ -1,16 +1,84 @@
-### Hi there 👋
+### 😎 Obrigado por visitar o meu perfil do GitHub!
 
-<!--
-**TCaramori/TCaramori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<div>
+<img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="60"> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="60">
+
+<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="60">
+
+<img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" width="60">
+
+<img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="60">
+
+<img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" width="60">
+
+<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="60">
+
+<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="60">
+
+<img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" width="60">
+
+<img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" width="60">
+
+<h2>
+</div>
+
+
+
+<a href="https://www.youtube.com/@mentemaker/featured">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&theme=transparent" alt="Ícone">
+</a>
+
+<a href="https://instagram.com/mente_maker?igshid=MzNlNGNkZWQ4Mg==">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
+<a href="https://replit.com/@MenteMaker">
+  <img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white">
+</a>
+
+<p></p>
+
+<a href="https://github.com/TCaramori/github-readme-stats">
+  <img height=200 align="center"  src="https://github-readme-stats.vercel.app/api?username=TCaramori&theme=transparent" />
+</a>
+<a href="https://github.com/TCaramori/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TCaramori&layout=compact&langs_count=8&card_width=320&theme=transparent" />
+</a>
+
+ 
+
+<picture style="background-color: transparent">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="
+      https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg
+    "
+  />
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="
+      https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg
+    "
+  />
+
+</picture>
+
+
+
+<p align="center">
+
+
+
+
+
+
+
+
+
+
+
+
+</h4>
