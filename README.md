@@ -1,4 +1,4 @@
-### 😎 <em>Obrigado por visitar o meu perfil do GitHub!</em>
+### 😎 Obrigado por visitar o meu perfil do GitHub!
 
 
 <div>
